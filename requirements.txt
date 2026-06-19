@@ -1,0 +1,9 @@
+# xixi仙问百答 — Python 依赖
+# 安装: pip install -r requirements.txt
+
+# 核心（TTS配音 + 上传）
+urllib3>=2.0
+
+# HyperFrames 视频合成
+# npm install -g hyperframes
+# (非 Python 包，见 README.md)

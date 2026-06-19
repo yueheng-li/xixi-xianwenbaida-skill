@@ -1,0 +1,19 @@
+{
+  "_help": "Copy to config.json and fill in your paths. config.json is gitignored.",
+
+  "PROJECT_ROOT": "D:/your-project-path/shenxian-baiwenbaida",
+
+  "TTS_API_KEY": "Set via env VOLCENGINE_TTS_API_KEY, do not put key here.",
+
+  "XIMALAYA": {
+    "APP_KEY": "env: XIMALAYA_APP_KEY",
+    "APP_SECRET": "env: XIMALAYA_APP_SECRET",
+    "ACCESS_TOKEN": "env: XIMALAYA_ACCESS_TOKEN",
+    "ALBUM_ID": "env: XIMALAYA_ALBUM_ID"
+  },
+
+  "AUDIO": {
+    "bgm_source": "douyin/bgm_pure.mp3",
+    "ending_source": "HyperFrames/ending.mp3"
+  }
+}
